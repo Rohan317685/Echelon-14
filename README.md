@@ -11,3 +11,4 @@ Now the once‑classified device is fully open‑source, released into the wild 
 I've spent like 2 hours on the wiring alone and I couldnt figure out how to use the pads etc it was confusing but I watched through some tutorials etc and finally got it!
 
 
+NOTE: There is in the pcb file when i was wiring everything etc a small speck thats unconnected thats fine i couldnt find how to delete it and it makes no difference at all functionally and barely aesthetically basically unnoticeable and I've spent 30 minutes trying to delete it and I just ended up leaving it!
