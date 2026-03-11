@@ -7,7 +7,7 @@ But everything changed when an unidentified team member leaked the encrypted sch
 Now the once‑classified device is fully open‑source, released into the wild for anyone bold and brave enough to build it.
 
 <img width="958" height="486" alt="Screenshot 2026-01-23 21 39 58" src="https://github.com/user-attachments/assets/b8554133-491b-46ac-9f6f-9676aeb08933" />
-![IMG_5448](https://github.com/user-attachments/assets/c069af8e-0090-4e77-b5ff-44045ee1965b)
+
 
 I've spent like 2 hours on the wiring alone and I couldnt figure out how to use the pads etc it was confusing but I watched through some tutorials etc and finally got it!
 
