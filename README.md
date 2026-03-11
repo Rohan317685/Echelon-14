@@ -7,7 +7,7 @@ But everything changed when an unidentified team member leaked the encrypted sch
 Now the once‑classified device is fully open‑source, released into the wild for anyone bold and brave enough to build it.
 
 <img width="958" height="486" alt="Screenshot 2026-01-23 21 39 58" src="https://github.com/user-attachments/assets/b8554133-491b-46ac-9f6f-9676aeb08933" />
-<img width="958" height="486" alt="Screenshot 2026-01-23 21 39 58" src="https://github.com/user-attachments/assets/4ed14b80-72c1-470c-a670-44246afddb1e />
+<img width="958" height="486" alt="Screenshot 2026-01-23 21 39 58" src="https://github.com/user-attachments/assets/4ed14b80-72c1-470c-a670-44246afddb1e" />
 ![IMG_5448](https://github.com/user-attachments/assets/4ed14b80-72c1-470c-a670-44246afddb1e)
 
 
